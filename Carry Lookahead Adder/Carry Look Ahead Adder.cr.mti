@@ -1,0 +1,31 @@
+C:/Modeltech_pe_edu_10.4a/CLA/CLA_tb.v {2 {vlog -work {CLA Adder} -stats=none C:/Modeltech_pe_edu_10.4a/CLA/CLA_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module carry_lookahead_tb
+** Warning: C:/Modeltech_pe_edu_10.4a/CLA/CLA_tb.v(40): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	carry_lookahead_tb
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/CLA/PG Generator.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/CLA/PG Generator.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module PG_Generator
+
+Top level modules:
+	PG_Generator
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/CLA/LookAhead Generator.v} {1 {vlog -work {CLA Adder} -stats=none {C:/Modeltech_pe_edu_10.4a/CLA/LookAhead Generator.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module four_bit_cla_generator
+
+Top level modules:
+	four_bit_cla_generator
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/CLA/LookAhead16-bit.v {1 {vlog -work {CLA Adder} -stats=none C:/Modeltech_pe_edu_10.4a/CLA/LookAhead16-bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module SixteenBit_LookAhead_Adder
+
+Top level modules:
+	SixteenBit_LookAhead_Adder
+
+} {} {}}

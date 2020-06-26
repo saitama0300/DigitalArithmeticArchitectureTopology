@@ -1,0 +1,115 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+vfull_adder
+Z0 !s110 1584969316
+!i10b 1
+!s100 HlKjn]7da^Qb9R3bzkF?z2
+I<M1jWLQbYd7HbUEM5cijO3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/SOP Work/Ripple Carry
+w1584582166
+8D:/SOP Work/Ripple Carry/Full_Adder.v
+FD:/SOP Work/Ripple Carry/Full_Adder.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1584969316.000000
+!s107 D:/SOP Work/Ripple Carry/Full_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOP Work/Ripple Carry/Full_Adder.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vhalf_adder
+R0
+!i10b 1
+!s100 MW6Xm`HUe64`6bP?C?8a81
+IWiIi>z=X^nCiG6<GJKQWK3
+R1
+R2
+w1584582141
+8D:/SOP Work/Ripple Carry/Half_Adder.v
+FD:/SOP Work/Ripple Carry/Half_Adder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/SOP Work/Ripple Carry/Half_Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOP Work/Ripple Carry/Half_Adder.v|
+!s101 -O0
+!i113 1
+R5
+vripple_carry_16bit
+R0
+!i10b 1
+!s100 N>K13[=bSege23kcAgca22
+IDZ<Q=]5ikCK0=R8cg_Cfj1
+R1
+R2
+w1584986520
+8D:/SOP Work/Ripple Carry/carry_select_16_bit.v
+FD:/SOP Work/Ripple Carry/carry_select_16_bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/SOP Work/Ripple Carry/carry_select_16_bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOP Work/Ripple Carry/carry_select_16_bit.v|
+!s101 -O0
+!i113 1
+R5
+vripple_carry_4_bit
+R0
+!i10b 1
+!s100 JQaOO7j8<CH]o5Blbln9n3
+I27XDC8AM;ISC[ek0TLhNa2
+R1
+R2
+w1584584210
+8D:/SOP Work/Ripple Carry/module ripple_carry_4bit.v
+FD:/SOP Work/Ripple Carry/module ripple_carry_4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/SOP Work/Ripple Carry/module ripple_carry_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOP Work/Ripple Carry/module ripple_carry_4bit.v|
+!s101 -O0
+!i113 1
+R5
+vripple_carry_tb
+R0
+!i10b 1
+!s100 [AeUg>7>3QbGmfFNKdm?Q1
+ITP]QMoK1D<S=BF`e0[ofZ0
+R1
+R2
+w1584969314
+8D:/SOP Work/Ripple Carry/Ripple_carry_TestBench.v
+FD:/SOP Work/Ripple Carry/Ripple_carry_TestBench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/SOP Work/Ripple Carry/Ripple_carry_TestBench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/SOP Work/Ripple Carry/Ripple_carry_TestBench.v|
+!s101 -O0
+!i113 1
+R5

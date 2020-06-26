@@ -1,0 +1,52 @@
+C:/Modeltech_pe_edu_10.4a/examples/Half_Adder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Half_Adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Full_Adder.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Full_Adder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/carry_select_TestBench.v {2 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/carry_select_TestBench.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module carry_select_tb
+** Warning: C:/Modeltech_pe_edu_10.4a/examples/carry_select_TestBench.v(41): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	carry_select_tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/carry_select_16_bit.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/carry_select_16_bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module carry_select_adder_16bit
+
+Top level modules:
+	carry_select_adder_16bit
+
+} {} {}} {C:/Modeltech_pe_edu_10.4a/examples/module ripple_carry_4bit.v} {1 {vlog -work work -stats=none {C:/Modeltech_pe_edu_10.4a/examples/module ripple_carry_4bit.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ripple_carry_4_bit
+
+Top level modules:
+	ripple_carry_4_bit
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/carry_select_four_bit.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/carry_select_four_bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module carry_select_adder_4bit_slice
+
+Top level modules:
+	carry_select_adder_4bit_slice
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mux2X1.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mux2X1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux2X1
+
+Top level modules:
+	mux2X1
+
+} {} {}}
